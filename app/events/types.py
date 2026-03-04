@@ -1,0 +1,10 @@
+"""Jobs-domain event type constants."""
+
+JOB_CREATED = "job.created"
+JOB_PUBLISHED = "job.published"
+JOB_UPDATED = "job.updated"
+JOB_CLOSED = "job.closed"
+JOB_ANALYSIS_REQUESTED = "job.analysis_requested"
+JOB_ANALYSIS_COMPLETED = "job.analysis_completed"
+JOB_WEIGHTAGES_UPDATED = "job.weightages_updated"
+JOB_QUALIFICATIONS_UPDATED = "job.qualifications_updated"
